@@ -1,0 +1,248 @@
+body{
+  background-color: black;
+height: 200%;
+overflow: scroll;
+}
+
+
+.icons{
+  float:right;
+  height: 85px;
+  width: 150px;
+  font-size: 70px;
+  color: #555;
+  text-decoration: none;
+  cursor: pointer;
+  overflow: hidden;
+    }
+.icons:hover{
+  color: white; 
+}
+.icon{
+  float:left;
+  height: 85px;
+  width: 150px;
+  font-size: 70px;
+  color: yellow;
+  text-decoration: none;
+  cursor: pointer;
+  overflow: hidden;
+    }
+.iconlike{
+      float:right;
+      height: 85px;
+      width: 70px;
+      font-size: 60px;
+      color: black;
+      text-decoration: none;
+      cursor: pointer;
+      overflow: hidden;
+        }
+    .iconlike:hover{
+      color: red; 
+}
+.iconcom{
+  float:right;
+  height: 85px;
+  width: 70px;
+  font-size: 60px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  overflow: hidden;
+    }
+.iconcom:hover{
+  color: yellow; 
+}
+
+
+.iconneeche{
+  float:right;
+  height: 85px;
+  width: 100px;
+  font-size: 60px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  overflow: hidden;
+    }
+.iconneeche:hover{
+  color: green; 
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 90px;
+    background-color: #555;
+    height: 100%;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    font-size: 70px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+  
+  }
+  li a:hover {
+    background-color: black;
+  color: white;
+  }
+
+
+  .input {
+    float: right;
+    width: 400px;
+    height: 50px;
+    padding: 6px;
+    margin-top: 6px;
+    border: none;
+    font-size: 30px;
+    background-color: green;
+    color: red;
+  }
+
+  .change {
+    width: 250px;
+    height: 30px;
+    padding: 6px;
+    margin-top: 6px;
+    border: none;
+    font-size: 30px;
+    }
+
+
+  .headings{
+  text-align: center;
+  font-size: 50px ;
+}
+.sheadings{
+  text-align: left;
+  font-size: 35px ;
+}
+
+
+.div {
+  background-color: white;
+  width: 395px;
+  height: 500px;
+  border: 5px solid green;
+  padding: 5px;
+  margin: 1px;
+  float: right;
+  overflow: hidden;
+}
+.block{
+  width: 350px;
+  height: 300px;
+  border: 5px solid green;
+    padding: 5px;
+    margin: 1px;
+  }
+  .horiblock {
+    background-color: white;
+    width: 1335px;
+    height: 260px;
+    border: 5px solid green;
+    padding: 5px;
+    margin: 1px;
+    float: right;
+    overflow: scroll;
+    white-space: nowrap;
+  }
+  .div1 {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    border: 5px solid green;
+    padding: 5px;
+    margin: 2px;
+    float: right;
+    overflow: scroll;
+  }
+
+
+  .horiblocks {
+    background-color: white;
+    width: 47%;
+    height: 150px;
+    border: 5px solid green;
+    padding: 5px;
+    margin: 1px;
+    float:left;
+    overflow: hidden;
+  }
+
+  .mapblock{
+      background-color: white;
+      width: 97%;
+      height: 500px;
+      border: 5px solid green;
+      padding: 5px;
+      margin: auto;
+      float:initial;
+      overflow: hidden;
+  }
+
+
+  .date{
+  text-align: center;
+}
+
+.food{
+  font-size: 30px;
+  height: 45px;
+  width: 400px;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+button{
+  height: 43px;
+  width: 70px;
+  font-size: 20px;
+}
+
+.locate{
+  background-color: #3e8e41;
+  color: red;
+  text-align: center;
+  height: 80px;
+  width: 300px;
+  font-size: 50px;
+  border-radius: 30%;
+  cursor: pointer;
+}
+.locate:hover{
+  background-color: red;
+  color: #3e8e41;
+}
+
+
+.comp{
+  float: right;
+  height:400px;
+  width: 50%;
+  margin-left:100px; 
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+
+
+.dem{
+  font-size: xx-large;
+}
+.order{
+  font-size: 30px;
+  height: 400px;
+  width: 300px;
+}
