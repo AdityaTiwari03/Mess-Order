@@ -52,3 +52,14 @@ html {
     calc(-2.3*var(--s)) calc(1.7*var(--s)),0 0
   }
 }
+h2{
+  font-size: 100px;
+  margin-top: 2%;
+  margin-left: 30%;
+  color: white;
+}
+h1{
+  margin-top: 20%;
+  margin-left: 45%;
+  color: white;
+}
